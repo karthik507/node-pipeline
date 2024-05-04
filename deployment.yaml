@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: karthik-test2
+  name: node-deployment
   labels:
     app: my-client-v2
 spec:
